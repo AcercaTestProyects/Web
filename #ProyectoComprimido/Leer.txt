@@ -1,0 +1,2 @@
+Se añade el proyecto web comprimido en caso de que no funcione el proyecto git..
+Descomprimir el zip para obtener el proyecto web de react js
